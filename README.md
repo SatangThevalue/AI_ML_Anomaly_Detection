@@ -7,6 +7,7 @@
 
 </div>
 
+
 ---
 
 <p align="center"> 
@@ -14,7 +15,7 @@
 </p>
 
 ## 📝 Table of Contents
-
+- [ML AI : Anomaly Detection (canva) ](https://www.canva.com/design/DAF-DcPM7hA/I2KM6L2wXG9mzeeXYqyF2A/view?utm_content=DAF-DcPM7hA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
